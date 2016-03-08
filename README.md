@@ -7,9 +7,9 @@ https://github.com/CCSF-Coders/club-how-to/wiki
 
 ### Still needed to update:
 1. 'Being Legit' How-Tos:
-  * [ ] How to restart the club (a.k.a. getting officially recognized by Student Activities) <br>
+  * [x] How to restart the club (a.k.a. getting officially recognized by Student Activities) <br>
     * [x] info
-    * [ ] github
+    * [x] github
   * [ ] How to spend money <br>
     * [x] info
     * [ ] github
