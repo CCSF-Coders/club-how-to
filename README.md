@@ -26,8 +26,11 @@ https://github.com/CCSF-Coders/club-how-to/wiki
     * [ ] How to be the Inter-Club Council (ICC) representative <br>
       * [ ] info
       * [ ] github
-  * Additional positions: <br>
-    * ???
+    * Additional positions: <br>
+      * ???
+  * How to publicize events
+    * [x] info
+    * [ ] github
 2. Specific Meetings/Workshops How-Tos: <br>
   * Meetings: <br>
     * [ ] How to run Peer Advising <br>
