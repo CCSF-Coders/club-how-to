@@ -60,4 +60,5 @@ https://github.com/CCSF-Coders/club-how-to/wiki
   * [ ] How to record talks for YouTube <br>
     * [ ] info
     * [ ] github
+  * [ ] How to effectively manage Google Group <br>
 
