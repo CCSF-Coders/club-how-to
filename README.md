@@ -42,6 +42,9 @@ https://github.com/CCSF-Coders/club-how-to/wiki
     * [ ] How to run Technical Interview/Resume workshop <br>
        * [ ] info
        * [ ] github
+    * [ ] How to organize speaker events <br>
+       * [ ] info
+       * [ ] github 
   * Workshops: <br>
     * [ ] How to run OpenHatch "Open Source Comes to Campus" workshop <br>
        * [ ] info
